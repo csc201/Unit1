@@ -1,4 +1,5 @@
 //Tanes
+//shayan
 public class GpsDriver {
 	public static void main(String [] args) {
 		int speed = 60;//SpeedoMeterSensor.getSpeed();
