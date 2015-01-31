@@ -3,6 +3,7 @@
 // change v3 commit
 // change v4 commit
 // change v5 commit - create feature branch
+// change v6 commit - young
 public class Gps {
 	
 	public String getDirection() {
